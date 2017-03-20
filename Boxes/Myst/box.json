@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Myst",
+		"system": "Macintosh",
+	},
+	"boxType": "TopFoldBox",
+	"height": 30,
+	"faces": {
+		"front": {
+			"image": "myst.jpg"
+		},
+		"back": {
+			"image": "myst-back.jpg"
+		},
+		"left": {
+			"image": ""
+		},
+		"right": {
+			"image": ""
+		},
+		"top": {
+			"image": ""
+		},
+		"bottom": {
+			"image": ""
+		},
+	}
+}
